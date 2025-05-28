@@ -30,14 +30,17 @@ bookshelf-api/
    cd bookshelf-api
 
 2. **Install dependensi:**
-- npm install
+   ```bash
+   npm install
 
-3.**Jalankan server:**bash
-npm start
+3. **Jalankan server:**
+   ```bash
+   npm start
 
-4. **Server berjalan di:**
-http://localhost:9000
-(Ubah port di server.js jika perlu)
+5. **Server berjalan di:**
+   ```bash
+   http://localhost:9000
+   (Ubah port di server.js jika perlu)
 
 ## 🛠️ Teknologi
 1. Node.js (tanpa framework tambahan)
