@@ -1,4 +1,4 @@
-### Bookshelf API
+# 📚 Bookshelf API
 
 Bookshelf API adalah RESTful API sederhana yang dibuat menggunakan **Node.js (native HTTP module)** untuk keperluan submission belajar back-end dari Dicoding. API ini memungkinkan pengguna untuk menyimpan, membaca, mengubah, dan menghapus data buku.
 
