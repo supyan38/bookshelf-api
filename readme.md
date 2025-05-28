@@ -1,6 +1,7 @@
-# Bookshelf API
+### Bookshelf API
 
 Bookshelf API adalah RESTful API sederhana yang dibuat menggunakan **Node.js (native HTTP module)** untuk keperluan submission belajar back-end dari Dicoding. API ini memungkinkan pengguna untuk menyimpan, membaca, mengubah, dan menghapus data buku.
+
 
 ## 📌 Fitur
 
@@ -11,15 +12,16 @@ Bookshelf API adalah RESTful API sederhana yang dibuat menggunakan **Node.js (na
 - Hapus buku
 - Filter berdasarkan nama, status selesai dibaca, dan sedang dibaca
 
+
 ## 📁 Struktur Proyek
 
 bookshelf-api/
-├── src/
-│ ├── server.js # File utama server
-│ ├── books.js # Data dan array buku
-│ └── handler.js # Handler CRUD
-├── package.json
-└── README.md
+src/
+server.js # File utama server
+books.js # Data dan array buku
+handler.js # Handler CRUD
+package.json
+README.md
 
 
 ## 🚀 Cara Menjalankan
@@ -41,6 +43,7 @@ bookshelf-api/
    ```bash
    http://localhost:9000
    (Ubah port di server.js jika perlu)
+
 
 ## 🛠️ Teknologi
 1. Node.js (tanpa framework tambahan)
