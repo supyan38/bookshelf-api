@@ -28,7 +28,7 @@ README.md
 
 1. **Klon repositori:**
    ```bash
-   git clone https://github.com/username/bookshelf-api.git
+   git clone https://github.com/supyan38/bookshelf-api.git
    cd bookshelf-api
 
 2. **Install dependensi:**
